@@ -26,7 +26,7 @@ Power BI, Power Query, DAX
 ## Dashboard Preview
 
 
-![Dashboard](cookies.png)
+![Dashboard](DashBoarddcookies.png)
 
 
 
